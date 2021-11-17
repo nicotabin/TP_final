@@ -1,0 +1,5 @@
+tweepy
+jupyter[notebook]
+pandas
+keras
+json
